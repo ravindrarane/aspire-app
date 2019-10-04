@@ -93,9 +93,14 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/bootstrap/bootstrap.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/jquery/jquery.min.js",
+              "src/assets/bootstrap/pooper.min.js",
+              "src/assets/bootstrap/bootstrap.min.js"
+            ]
           }
         },
         "lint": {
